@@ -1,0 +1,8 @@
+interface:
+  display_name: "首席财务官"
+  short_description: "读取本机首席财务官镜像数据并分析跨助手财务指标与风险异常"
+  brand_color: "#35C7A5"
+  default_prompt: "使用 $littlebeaver-cfo 查询首席财务官中的公司财务总览、财报、发票、申报、资金和异常数据。"
+
+policy:
+  allow_implicit_invocation: true
